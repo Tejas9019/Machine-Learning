@@ -2,7 +2,7 @@
 
 # AI System Design
 
-<img src="./assets/banner.png" alt="AI System Design Banner" width="100%" />
+<img src="./AI-System-Design/assets/banner.png" alt="AI System Design Banner" width="100%" />
 
 ### *The Ultimate Guide to Learning, Designing, and Building Production-Scale AI Systems*
 
@@ -33,7 +33,7 @@ To build state-of-the-art AI systems, you need a robust ecosystem. This reposito
 
 ## 🗺️ Learning Roadmap
 
-<img src="./diagrams/roadmap_overall.png" alt="AI System Design Overall Learning Roadmap" width="500" />
+<img src="./AI-System-Design/diagrams/roadmap_overall.png" alt="AI System Design Overall Learning Roadmap" width="100%" />
 
 ---
 
@@ -59,82 +59,82 @@ AI-System-Design/
 
 ## 📘 Modules Breakdown
 
-### 🧠 [01. Fundamentals](./01-Fundamentals/README.md)
+### 🧠 [01. Fundamentals](./AI-System-Design/01-Fundamentals/README.md)
 *Core neural network paradigms and architectural foundations.*
-* [AI vs ML vs DL](./01-Fundamentals/AI_vs_ML_vs_DL.md) — Artificial Intelligence, Machine Learning, and Deep Learning differences.
-* [LLM Basics](./01-Fundamentals/LLM_Basics.md) — Under the hood of Large Language Models.
-* [Transformers](./01-Fundamentals/Transformers.md) — Attention mechanism, encoders, decoders, and architecture.
-* [Embeddings](./01-Fundamentals/Embeddings.md) — How dense representations capture semantic meaning.
-* [Vector Databases](./01-Fundamentals/Vector_Databases.md) — High-dimensional indexing and search.
-* [Tokenization](./01-Fundamentals/Tokenization.md) — Byte-Pair Encoding (BPE), WordPiece, and text preparation.
+* [AI vs ML vs DL](./AI-System-Design/01-Fundamentals/AI_vs_ML_vs_DL.md) — Artificial Intelligence, Machine Learning, and Deep Learning differences.
+* [LLM Basics](./AI-System-Design/01-Fundamentals/LLM_Basics.md) — Under the hood of Large Language Models.
+* [Transformers](./AI-System-Design/01-Fundamentals/Transformers.md) — Attention mechanism, encoders, decoders, and architecture.
+* [Embeddings](./AI-System-Design/01-Fundamentals/Embeddings.md) — How dense representations capture semantic meaning.
+* [Vector Databases](./AI-System-Design/01-Fundamentals/Vector_Databases.md) — High-dimensional indexing and search.
+* [Tokenization](./AI-System-Design/01-Fundamentals/Tokenization.md) — Byte-Pair Encoding (BPE), WordPiece, and text preparation.
 
-### 🤖 [02. LLM System Design](./02-LLM-System-Design/README.md)
+### 🤖 [02. LLM System Design](./AI-System-Design/02-LLM-System-Design/README.md)
 *Designing interactive, context-aware AI systems.*
-* [ChatGPT Architecture](./02-LLM-System-Design/ChatGPT_Architecture.md) — RLHF, instruction tuning, and scaling.
-* [RAG System](./02-LLM-System-Design/RAG_System.md) — Retrieval-Augmented Generation workflows.
-* [AI Search](./02-LLM-System-Design/AI_Search.md) — Combining semantic search with keyword retrieval.
-* [AI Agent](./02-LLM-System-Design/AI_Agent.md) — ReAct, tool use, and loop control structures.
-* [Multi-Agent](./02-LLM-System-Design/Multi_Agent.md) — Orchestration, routing, and consensus protocols.
-* [Prompt Engineering](./02-LLM-System-Design/Prompt_Engineering.md) — Few-shot, chain-of-thought, skeleton prompts.
-* [Context Management](./02-LLM-System-Design/Context_Management.md) — Sliding windows, attention compression, long contexts.
-* [Memory System](./02-LLM-System-Design/Memory_System.md) — Short-term vs long-term memory for chatbots.
+* [ChatGPT Architecture](./AI-System-Design/02-LLM-System-Design/ChatGPT_Architecture.md) — RLHF, instruction tuning, and scaling.
+* [RAG System](./AI-System-Design/02-LLM-System-Design/RAG_System.md) — Retrieval-Augmented Generation workflows.
+* [AI Search](./AI-System-Design/02-LLM-System-Design/AI_Search.md) — Combining semantic search with keyword retrieval.
+* [AI Agent](./AI-System-Design/02-LLM-System-Design/AI_Agent.md) — ReAct, tool use, and loop control structures.
+* [Multi-Agent](./AI-System-Design/02-LLM-System-Design/Multi_Agent.md) — Orchestration, routing, and consensus protocols.
+* [Prompt Engineering](./AI-System-Design/02-LLM-System-Design/Prompt_Engineering.md) — Few-shot, chain-of-thought, skeleton prompts.
+* [Context Management](./AI-System-Design/02-LLM-System-Design/Context_Management.md) — Sliding windows, attention compression, long contexts.
+* [Memory System](./AI-System-Design/02-LLM-System-Design/Memory_System.md) — Short-term vs long-term memory for chatbots.
 
-### 🏗️ [03. Architecture](./03-Architecture/README.md)
+### 🏗️ [03. Architecture](./AI-System-Design/03-Architecture/README.md)
 *System design fundamentals for high-availability systems.*
-* [High-Level Architecture](./03-Architecture/High_Level_Architecture.md) — Global scale request routing.
-* [Microservices](./03-Architecture/Microservices.md) — Monolith decomposition and service separation.
-* [Event-Driven](./03-Architecture/Event_Driven.md) — Event sourcing, pub-sub architectures.
-* [Message Queues](./03-Architecture/Message_Queues.md) — RabbitMQ, Kafka, and background processing.
-* [API Gateway](./03-Architecture/API_Gateway.md) — Routing, rate limiting, and SSL termination.
-* [Authentication](./03-Architecture/Authentication.md) — OAuth2, JWT, and session management.
-* [Rate Limiting](./03-Architecture/Rate_Limiting.md) — Token bucket, leaking bucket, and sliding window logs.
-* [Caching](./03-Architecture/Caching.md) — Redis, Memcached, eviction policies (LRU/LFU).
+* [High-Level Architecture](./AI-System-Design/03-Architecture/High_Level_Architecture.md) — Global scale request routing.
+* [Microservices](./AI-System-Design/03-Architecture/Microservices.md) — Monolith decomposition and service separation.
+* [Event-Driven](./AI-System-Design/03-Architecture/Event_Driven.md) — Event sourcing, pub-sub architectures.
+* [Message Queues](./AI-System-Design/03-Architecture/Message_Queues.md) — RabbitMQ, Kafka, and background processing.
+* [API Gateway](./AI-System-Design/03-Architecture/API_Gateway.md) — Routing, rate limiting, and SSL termination.
+* [Authentication](./AI-System-Design/03-Architecture/Authentication.md) — OAuth2, JWT, and session management.
+* [Rate Limiting](./AI-System-Design/03-Architecture/Rate_Limiting.md) — Token bucket, leaking bucket, and sliding window logs.
+* [Caching](./AI-System-Design/03-Architecture/Caching.md) — Redis, Memcached, eviction policies (LRU/LFU).
 
-### 📊 [04. Data](./04-Data/README.md)
+### 📊 [04. Data](./AI-System-Design/04-Data/README.md)
 *Handling multi-modal, large-scale, streaming datasets.*
-* [SQL](./04-Data/SQL.md) & [NoSQL](./04-Data/NoSQL.md) — Relational databases vs document, wide-column, key-value stores.
-* [Data Pipelines](./04-Data/Data_Pipelines.md) & [ETL](./04-Data/ETL.md) — Batch and real-time data ingestion.
-* [Streaming](./04-Data/Streaming.md) — Apache Flink, Spark Streaming.
-* [Data Lake](./04-Data/Data_Lake.md) & [Data Warehouse](./04-Data/Data_Warehouse.md) — Delta Lake, Iceberg, Snowflake, BigQuery.
+* [SQL](./AI-System-Design/04-Data/SQL.md) & [NoSQL](./AI-System-Design/04-Data/NoSQL.md) — Relational databases vs document, wide-column, key-value stores.
+* [Data Pipelines](./AI-System-Design/04-Data/Data_Pipelines.md) & [ETL](./AI-System-Design/04-Data/ETL.md) — Batch and real-time data ingestion.
+* [Streaming](./AI-System-Design/04-Data/Streaming.md) — Apache Flink, Spark Streaming.
+* [Data Lake](./AI-System-Design/04-Data/Data_Lake.md) & [Data Warehouse](./AI-System-Design/04-Data/Data_Warehouse.md) — Delta Lake, Iceberg, Snowflake, BigQuery.
 
-### 🔍 [05. Vector Search](./05-Vector-Search/README.md)
+### 🔍 [05. Vector Search](./AI-System-Design/05-Vector-Search/README.md)
 *Deep dive into spatial index architectures and matching algorithms.*
-* [FAISS](./05-Vector-Search/FAISS.md) — Facebook AI Similarity Search algorithms (IVF-PQ).
-* [Pinecone](./05-Vector-Search/Pinecone.md) — Managed vector database operations.
-* [Weaviate](./05-Vector-Search/Weaviate.md) — Open-source hybrid vector database.
-* [Chroma](./05-Vector-Search/Chroma.md) — Lightweight embedding database for local development.
-* [Milvus](./05-Vector-Search/Milvus.md) — Enterprise-grade cloud-native vector search.
+* [FAISS](./AI-System-Design/05-Vector-Search/FAISS.md) — Facebook AI Similarity Search algorithms (IVF-PQ).
+* [Pinecone](./AI-System-Design/05-Vector-Search/Pinecone.md) — Managed vector database operations.
+* [Weaviate](./AI-System-Design/05-Vector-Search/Weaviate.md) — Open-source hybrid vector database.
+* [Chroma](./AI-System-Design/05-Vector-Search/Chroma.md) — Lightweight embedding database for local development.
+* [Milvus](./AI-System-Design/05-Vector-Search/Milvus.md) — Enterprise-grade cloud-native vector search.
 
-### ⚡ [06. Model Serving](./06-Model-Serving/README.md)
+### ⚡ [06. Model Serving](./AI-System-Design/06-Model-Serving/README.md)
 *Scaling low-latency, high-throughput model inference.*
-* [vLLM](./06-Model-Serving/vLLM.md) — PagedAttention and high-concurrency serving.
-* [Triton Server](./06-Model-Serving/Triton.md) — Multi-framework serving (PyTorch, ONNX, TensorRT).
-* [TensorRT](./06-Model-Serving/TensorRT.md) — Deep learning inference compilation.
-* [Quantization](./06-Model-Serving/Quantization.md) — Post-training quantization (FP16, INT8, INT4, AWQ, GPTQ).
-* [GPU Inference](./06-Model-Serving/GPU_Inference.md) — VRAM budgeting, speculative decoding, KV caching optimization.
+* [vLLM](./AI-System-Design/06-Model-Serving/vLLM.md) — PagedAttention and high-concurrency serving.
+* [Triton Server](./AI-System-Design/06-Model-Serving/Triton.md) — Multi-framework serving (PyTorch, ONNX, TensorRT).
+* [TensorRT](./AI-System-Design/06-Model-Serving/TensorRT.md) — Deep learning inference compilation.
+* [Quantization](./AI-System-Design/06-Model-Serving/Quantization.md) — Post-training quantization (FP16, INT8, INT4, AWQ, GPTQ).
+* [GPU Inference](./AI-System-Design/06-Model-Serving/GPU_Inference.md) — VRAM budgeting, speculative decoding, KV caching optimization.
 
-### 🔄 [07. MLOps](./07-MLOps/README.md)
+### 🔄 [07. MLOps](./AI-System-Design/07-MLOps/README.md)
 *Managing lifecycle, automation, and system reliability.*
-* [MLflow](./07-MLOps/MLflow.md) — Model registry and experiment tracking.
-* [Kubeflow](./07-MLOps/Kubeflow.md) — Pipeline orchestration on Kubernetes.
-* [Docker](./07-MLOps/Docker.md) & [Kubernetes](./07-MLOps/Kubernetes.md) — Containerization and scaling clusters.
-* [CI/CD](./07-MLOps/CI_CD.md) — Automated testing and model deployment.
-* [Monitoring](./07-MLOps/Monitoring.md) — Data drift, model decay, Prometheus & Grafana alerting.
+* [MLflow](./AI-System-Design/07-MLOps/MLflow.md) — Model registry and experiment tracking.
+* [Kubeflow](./AI-System-Design/07-MLOps/Kubeflow.md) — Pipeline orchestration on Kubernetes.
+* [Docker](./AI-System-Design/07-MLOps/Docker.md) & [Kubernetes](./AI-System-Design/07-MLOps/Kubernetes.md) — Containerization and scaling clusters.
+* [CI/CD](./AI-System-Design/07-MLOps/CI_CD.md) — Automated testing and model deployment.
+* [Monitoring](./AI-System-Design/07-MLOps/Monitoring.md) — Data drift, model decay, Prometheus & Grafana alerting.
 
-### ☁️ [08. Cloud](./08-Cloud/README.md)
+### ☁️ [08. Cloud](./AI-System-Design/08-Cloud/README.md)
 *Infrastructure deployment setups.*
-* [AWS](./08-Cloud/AWS.md), [Azure](./08-Cloud/Azure.md), [GCP](./08-Cloud/GCP.md) — Cloud architectures for AI workloads.
-* [Terraform](./08-Cloud/Terraform.md) — Multi-cloud resource provision scripts.
-* [Infrastructure](./08-Cloud/Infrastructure.md) — GPU instance configuration, Infiniband networking.
+* [AWS](./AI-System-Design/08-Cloud/AWS.md), [Azure](./AI-System-Design/08-Cloud/Azure.md), [GCP](./AI-System-Design/08-Cloud/GCP.md) — Cloud architectures for AI workloads.
+* [Terraform](./AI-System-Design/08-Cloud/Terraform.md) — Multi-cloud resource provision scripts.
+* [Infrastructure](./AI-System-Design/08-Cloud/Infrastructure.md) — GPU instance configuration, Infiniband networking.
 
-### 🏢 [09. Case Studies](./09-Case-Studies/README.md)
+### 🏢 [09. Case Studies](./AI-System-Design/09-Case-Studies/README.md)
 *System designs of production systems from industry leaders.*
-* [ChatGPT](./09-Case-Studies/ChatGPT.md), [Netflix](./09-Case-Studies/Netflix.md), [Uber](./09-Case-Studies/Uber.md), [Airbnb](./09-Case-Studies/Airbnb.md), [LinkedIn](./09-Case-Studies/LinkedIn.md)
-* [GitHub Copilot](./09-Case-Studies/GitHub_Copilot.md), [Cursor](./09-Case-Studies/Cursor.md), [Perplexity AI](./09-Case-Studies/Perplexity.md)
+* [ChatGPT](./AI-System-Design/09-Case-Studies/ChatGPT.md), [Netflix](./AI-System-Design/09-Case-Studies/Netflix.md), [Uber](./AI-System-Design/09-Case-Studies/Uber.md), [Airbnb](./AI-System-Design/09-Case-Studies/Airbnb.md), [LinkedIn](./AI-System-Design/09-Case-Studies/LinkedIn.md)
+* [GitHub Copilot](./AI-System-Design/09-Case-Studies/GitHub_Copilot.md), [Cursor](./AI-System-Design/09-Case-Studies/Cursor.md), [Perplexity AI](./AI-System-Design/09-Case-Studies/Perplexity.md)
 
-### 🎯 [10. Interview Questions](./10-Interview-Questions/README.md)
+### 🎯 [10. Interview Questions](./AI-System-Design/10-Interview-Questions/README.md)
 *Preparation checklists for FAANG-level positions.*
-* [Beginner](./10-Interview-Questions/Beginner.md), [Intermediate](./10-Interview-Questions/Intermediate.md), [Advanced](./10-Interview-Questions/Advanced.md), [FAANG](./10-Interview-Questions/FAANG.md)
+* [Beginner](./AI-System-Design/10-Interview-Questions/Beginner.md), [Intermediate](./AI-System-Design/10-Interview-Questions/Intermediate.md), [Advanced](./AI-System-Design/10-Interview-Questions/Advanced.md), [FAANG](./AI-System-Design/10-Interview-Questions/FAANG.md)
 
 ---
 
